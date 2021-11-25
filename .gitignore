@@ -1,5 +1,6 @@
 venv
 logs
+dags/__pycache__
 .idea
 airflow.cfg
 airflow.db
